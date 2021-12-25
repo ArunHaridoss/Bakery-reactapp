@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Bakery-reactapp/static/css/main.26f5c639.css",
+    "main.js": "/Bakery-reactapp/static/js/main.1aa5cc47.js",
+    "static/media/creamdonut.png": "/Bakery-reactapp/static/media/creamdonut.8c2000d7a824330278aa.png",
+    "static/media/cupcake.png": "/Bakery-reactapp/static/media/cupcake.aa6b61862a4f7989f7b2.png",
+    "static/media/bread.jpg": "/Bakery-reactapp/static/media/bread.d0d61dc33c6c9f1c3719.jpg",
+    "static/media/img1.jpg": "/Bakery-reactapp/static/media/img1.567c0c33ed2aed043191.jpg",
+    "static/media/img2.jpg": "/Bakery-reactapp/static/media/img2.fc4d4e8336749757e3bd.jpg",
+    "static/media/delivery.png": "/Bakery-reactapp/static/media/delivery.bd71218871a70d9c670e.png",
+    "static/media/chocodonut.jpg": "/Bakery-reactapp/static/media/chocodonut.3aef67ee647ec803efd6.jpg",
+    "static/media/biscuit.jpg": "/Bakery-reactapp/static/media/biscuit.050ff005fb677244d2fc.jpg",
+    "static/media/bread type2.jpg": "/Bakery-reactapp/static/media/bread type2.afdea0b20c271163088d.jpg",
+    "static/media/customer.png": "/Bakery-reactapp/static/media/customer.61700f6d20d32c93a6e7.png",
+    "static/media/alltime.png": "/Bakery-reactapp/static/media/alltime.eee9846c714fa3b36cb0.png",
+    "static/media/offers.jpg": "/Bakery-reactapp/static/media/offers.90878338c041d6206fa0.jpg",
+    "static/media/login.svg": "/Bakery-reactapp/static/media/login.108c59fad44b6507d58b167574edb63e.svg",
+    "index.html": "/Bakery-reactapp/index.html",
+    "main.26f5c639.css.map": "/Bakery-reactapp/static/css/main.26f5c639.css.map",
+    "main.1aa5cc47.js.map": "/Bakery-reactapp/static/js/main.1aa5cc47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26f5c639.css",
+    "static/js/main.1aa5cc47.js"
+  ]
+}
